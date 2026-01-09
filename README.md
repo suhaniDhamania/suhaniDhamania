@@ -1,5 +1,10 @@
-<!-- ================= HEADER ANIMATION ================= -->
+<!-- ================= HEADER WAVE ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=180&section=header&text=Suhani%20Dhamania&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+<!-- ================= PROFILE IMAGE ================= -->
+<p align="center">
+  <img src="https://github.com/suhaniDhamania.png" width="160" style="border-radius:50%;" />
+</p>
 
 <h3 align="center">
   🚀 MERN Stack Developer | React • Node • MongoDB
@@ -40,33 +45,33 @@
 
 ## 💼 Experience
 ### 🧑‍💻 Intern Developer — Subharti University
-- Worked on **full-stack applications** using React.js, Node.js & PostgreSQL  
-- Collaborated with senior developers on **feature development & optimization**  
-- Followed clean code practices, Git workflows & deployment processes  
+- Full-stack development using **React.js, Node.js & PostgreSQL**
+- Collaborated with senior developers on feature enhancement
+- Followed clean code practices & Git workflows
 
 ---
 
 ## 🚀 Development Projects
 
 ### 🏥 Smilesync – PACS Integration Platform (2025–Present)
-- Integrated **Orthanc PACS** with Stone & Osmosis viewers  
-- Secure **DICOM study access** with token-based flow  
-- Dynamic medical reports (generate, print, export, email)  
-- Role-based access control, MWL & patient management system  
+- Orthanc PACS integration with Stone & Osmosis viewers
+- Secure DICOM study access with token-based flow
+- Dynamic medical reports (generate, print, export, email)
+- Role-based access, MWL & patient management system
 
 ---
 
 ### 🍔 Food Delivery System (MERN Stack)
-- Real-time order processing system  
-- JWT authentication & role-based authorization  
-- Secure APIs with MongoDB & Express.js  
+- Real-time order processing
+- JWT authentication & role-based authorization
+- Secure REST APIs with MongoDB & Express.js
 
 ---
 
 ### 📈 Zerodha Trading Platform (Clone)
-- Real-time stock buy/sell dashboard  
-- Live market data with **Chart.js**  
-- JWT authentication, encryption & secure transactions  
+- Live stock trading dashboard
+- Market visualization using Chart.js
+- Secure authentication & encrypted transactions
 
 ---
 
@@ -120,5 +125,5 @@ Training Institute: **Apna College**
   ⭐ Explore my repositories & feel free to connect
 </p>
 
-<!-- ================= FOOTER ANIMATION ================= -->
+<!-- ================= FOOTER WAVE ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:38bdf8&height=120&section=footer" />
