@@ -31,7 +31,6 @@
 ✨ Strong interest in **backend systems, dashboards & real-world integrations**.
 
 📍 **Location:** Allahabad / Noida, Uttar Pradesh  
-📞 **Phone:** +91 8851648618  
 📧 **Email:** suhanidhamania157@gmail.com  
 
 ---
