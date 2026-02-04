@@ -1,5 +1,4 @@
-<!-- ================= HEADER WAVE ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:6366f1&height=180&section=header&text=Suhani%20Dhamania&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
 
 <!-- ================= PROFILE IMAGE ================= -->
 <p align="center">
