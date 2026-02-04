@@ -1,127 +1,81 @@
+<!-- ================= PROFILE HEADER ================= -->
+<div align="center">
 
+![Profile Banner](https://github.com/suhaniDhamania/suhaniDhamania/blob/main/assets/banner.gif)
 
-<!-- ================= PROFILE IMAGE ================= -->
-<p align="center">
-  <img src="https://github.com/suhaniDhamania.png" width="160" style="border-radius:50%;" />
-</p>
+<img src="https://github.com/suhaniDhamania.png" width="160" height="160" style="border-radius:50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);" />
 
-<h3 align="center">
-  🚀 MERN Stack Developer | React • Node • MongoDB
-</h3>
+# Suhani Dhamania
+### 🚀 Full Stack Developer | MERN Specialist
 
-<!-- ================= TYPING ANIMATION ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Apps;Advanced+Dashboard+UI+%26+Backend+Logic;PACS+Integration+Projects;Freelancing+%7C+Open+Source+Ready" />
-</p>
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;PACS+Integration+Specialist;Open+Source+Contributor;Always+Learning+New+Tech)
 
-<!-- ================= BADGES ================= -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhaniDhamania&style=for-the-badge&color=38bdf8"/>
-  <img src="https://img.shields.io/badge/MERN-STACK-6366f1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Developer-0ea5e9?style=for-the-badge"/>
-</p>
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=suhaniDhamania&style=flat-square&color=6366f1)
+![GitHub Followers](https://img.shields.io/github/followers/suhaniDhamania?style=flat-square&color=38bdf8)
+![GitHub Stars](https://img.shields.io/github/stars/suhaniDhamania?style=flat-square&color=0ea5e9)
+![MERN Stack](https://img.shields.io/badge/MERN-STACK-6366f1?style=flat-square)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
-🎯 **Self-driven and passionate MERN Stack Developer** with hands-on experience in building  
-**responsive, scalable & secure full-stack web applications**.
 
-✨ Strong interest in **backend systems, dashboards & real-world integrations**.
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-📍 **Location:** Allahabad / Noida, Uttar Pradesh  
-📧 **Email:** suhanidhamania157@gmail.com  
+Passionate **Full Stack Developer** specializing in MERN stack with hands-on experience in building scalable web applications. Currently focused on **PACS integration projects** and **advanced dashboard development**.
+
+**📍 Location:** Allahabad/Noida, Uttar Pradesh  
+**📧 Email:** suhanidhamania157@gmail.com  
+**🌐 Portfolio:** [portfolio-app-726d.onrender.com](https://portfolio-app-726d.onrender.com)  
+**💼 LinkedIn:** [linkedin.com/in/suhanidhamania](https://www.linkedin.com/in/suhanidhamania)
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,mongoose,git,github,vite&perline=7" />
-</p>
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 💼 Experience
-### 🧑‍💻 Intern Developer — Subharti University
-- Full-stack development using **React.js, Node.js & PostgreSQL**
+
+### **🧑‍💻 Intern Developer — Subharti University**
+**📅 2024 | Full Stack Development**
+
+- Developed full-stack applications using **React.js, Node.js & PostgreSQL**
 - Collaborated with senior developers on feature enhancement
-- Followed clean code practices & Git workflows
+- Implemented clean code practices & Git workflows
+- Contributed to application architecture design
 
 ---
 
-## 🚀 Development Projects
+## 🚀 Featured Projects
 
-### 🏥 Smilesync – PACS Integration Platform (2025–Present)
-- Orthanc PACS integration with Stone & Osmosis viewers
-- Secure DICOM study access with token-based flow
-- Dynamic medical reports (generate, print, export, email)
-- Role-based access, MWL & patient management system
+### **🏥 Smilesync – PACS Integration Platform** *(2025–Present)*
+> Advanced DICOM medical imaging platform with real-time processing
 
----
-
-### 🍔 Food Delivery System (MERN Stack)
-- Real-time order processing
-- JWT authentication & role-based authorization
-- Secure REST APIs with MongoDB & Express.js
-
----
-
-### 📈 Zerodha Trading Platform (Clone)
-- Live stock trading dashboard
-- Market visualization using Chart.js
-- Secure authentication & encrypted transactions
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhaniDhamania&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhaniDhamania&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/suhaniDhamania/suhaniDhamania/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎓 Education
-🎓 **Bachelor of Computer Applications (BCA)**  
-PIIT College, Greater Noida (2023–Present)
-
-🏫 **Senior Secondary (Science)**  
-Shaiffali Public School, Dadri (2023)
-
----
-
-## 📜 Certification
-✅ **MERN Stack Development — Sigma 4.0**  
-Training Institute: **Apna College**
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://portfolio-app-726d.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/suhanidhamania">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/suhaniDhamania">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ✨ <b>Thanks for visiting my profile!</b><br/>
-  ⭐ Explore my repositories & feel free to connect
-</p>
-
-<!-- ================= FOOTER WAVE ================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:38bdf8&height=120&section=footer" /> 
+```bash
+Tech: React, Node.js, Express, MongoDB, WebSocket, Orthanc PACS
