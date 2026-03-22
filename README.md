@@ -29,7 +29,7 @@ Passionate **Full Stack Developer** specializing in MERN stack with hands-on exp
 
 **📍 Location:** Allahabad/Noida, Uttar Pradesh  
 **📧 Email:** suhanidhamania157@gmail.com  
-**🌐 Portfolio:** [portfolio-app-726d.onrender.com](https://suhaniportfolio.onrender.com/)  
+**🌐 Portfolio:** [https://suhaniportfolio.onrender.com/](https://suhaniportfolio.onrender.com/)  
 **💼 LinkedIn:** [linkedin.com/in/suhanidhamania](https://www.linkedin.com/in/suhanidhamania)
 
 ---
