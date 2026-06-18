@@ -6,7 +6,7 @@
 <img src="https://github.com/suhaniDhamania.png" width="160" height="160" style="border-radius:50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);" />
 
 # Suhani Dhamania
-### 🚀 Full Stack Developer | MERN Specialist
+### 🚀 MERN Stack Developer
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;PACS+Integration+Specialist;Open+Source+Contributor;Always+Learning+New+Tech)
