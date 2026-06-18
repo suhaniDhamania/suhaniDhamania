@@ -69,13 +69,4 @@ Passionate **Full Stack Developer** specializing in MERN stack with hands-on exp
 - Collaborated with senior developers on feature enhancement
 - Implemented clean code practices & Git workflows
 - Contributed to application architecture design
-
----
-
-## 🚀 Featured Projects
-
-### **🏥 Smilesync – PACS Integration Platform** *(2025–Present)*
-> Advanced DICOM medical imaging platform with real-time processing
-
-```bash
 Tech: React, Node.js, Express, MongoDB, WebSocket, Orthanc PACS
